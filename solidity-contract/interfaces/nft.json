@@ -1,0 +1,20 @@
+{
+    "image": "https://bafkreie6ywzrupnhwloyyeko75f3vteapp2rlmv2enao7g366rasbv6xtq.ipfs.nftstorage.link",
+    "name": "MyFavoriteWallpaper",
+    "description": "This is my favorite wallpaper",
+    "properties": {
+        "artist": {
+            "type": "string",
+            "description": "Josh Savage"
+        },
+        "portrait": "GIG 1/1",
+        "profile": "Mexico 2017",
+        "colour": "",
+        "class": "2",
+        "postmark ring": "silver",
+        "postmark line": "none",
+        "rounded mark": "none",
+        "recording": "piano"
+    },
+    "duration": "120"
+}
